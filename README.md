@@ -1,5 +1,7 @@
 # NanoBoot
 これは[**shimboot**](https://github.com/ading2210/shimboot)をカスタマイズしたものです。debianの起動に関するファイルを削除し、制限解除に特化させたものです。debianのデータがない分、容量は非常に小さく抑えることができました。使う前に起動させたいchromeosのバージョンによって、以下の手順を踏む必要があります。
+## 構築済みファイル
+[kazuiton's file host](https://dl.kazuiton.com/chromeos/prebuild/nanoboot)
 ## 使い方
 ### ver125~135の場合
 1. nanobootを起動させてください。
